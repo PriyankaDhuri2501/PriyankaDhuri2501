@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dhuri</h1>
 <h3 align="center">A Passionate Data Analyst Enthusiast from India</h3>
 
-<img align="center" src="[https://media.giphy.com/media/3ov9k9AyzTi3PHuPIs/giphy.gif" width="100%" alt="Data Analytics Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxNDRjMTZkZmYwM2ZlMzJlODlmNGNhNDBkNDFkNjIzYzdhMzc3NSZjdD1n/pOEbLRT4SwDpe/giphy.gif" width="100%" alt="Data Analytics GIF)">
 
 - 🔍 Exploring **Data Visualization, Business Intelligence & Machine Learning**
 - 📊 Skilled in **Python, SQL, Tableau, Power BI, Excel, Data Cleaning & Storytelling**
