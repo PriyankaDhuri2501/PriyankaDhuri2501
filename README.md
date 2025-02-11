@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dhuri</h1>
 <h3 align="center">A Passionate Data Analyst Enthusiast from India</h3>
 
-<img align="center" src="https://media.giphy.com/media/3ov9k9AyzTi3PHuPIs/giphy.gif" width="100%" alt="Data Analytics Banner">
+<img align="center" src="[https://media.giphy.com/media/3ov9k9AyzTi3PHuPIs/giphy.gif" width="100%" alt="Data Analytics Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxNDRjMTZkZmYwM2ZlMzJlODlmNGNhNDBkNDFkNjIzYzdhMzc3NSZjdD1n/pOEbLRT4SwDpe/giphy.gif" width="100%" alt="Data Analytics GIF)">
 
 - 🔍 Exploring **Data Visualization, Business Intelligence & Machine Learning**
 - 📊 Skilled in **Python, SQL, Tableau, Power BI, Excel, Data Cleaning & Storytelling**
@@ -27,10 +27,9 @@
 ---
 
 ## 🚀 Featured Projects
-📌 **[Customer Churn Prediction](#)** - Analyzing customer behavior & predicting churn using Machine Learning.  
-📌 **[Sales Dashboard](#)** - Interactive dashboard built with Tableau for sales insights.  
-📌 **[SQL Data Cleaning](#)** - Cleaning messy data using SQL techniques.  
-📌 **[HR Analytics](#)** - HR data analysis using Python & Power BI.  
+📌 **[Diwali Sales Analytics](#)** - Interactive dashboard built Python & jupyter notebook for sales insights.  
+📌 **[Pizza Sales Analytics](#)** - Cleaning messy data using SQL techniques.  
+📌 **[HR Analytics Dashboard](#)** - HR data analysis using Python & Power BI.  
 
 🔗 Check all my projects: [GitHub Portfolio](https://github.com/PriyankaDhuri2501)
 
@@ -38,7 +37,6 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankadhuri2501&theme=dark" width="49%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankadhuri2501&theme=github_dark" width="49%" alt="GitHub Profile Summary" />
 </p>
 
