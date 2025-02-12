@@ -41,15 +41,3 @@
 
 ---
 
-## 🌍 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanka-dhuri-121b40271/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanka.official2512@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/PriyankaDhuri2501">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
