@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Priyanka Dhuri</h1>
+<h3 align="center">A Passionate Data Analyst Enthusiast from India</h3>
 
 
 - 🔍 Exploring **Data Visualization, Business Intelligence & Machine Learning**
