@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dhuri</h1>
 <h3 align="center">A Passionate Data Analyst Enthusiast from India</h3>
 
+- 🔍 Exploring **Data Visualization, Business Intelligence & Machine Learning**
+- 📊 Skilled in **Python, SQL, Tableau, Power BI, Excel, Data Cleaning & Storytelling**
+- 🚀 Love transforming raw data into actionable insights!
+- 🌱 Currently learning **Advanced Data Analytics & Predictive Modeling**
+- 💬 Ask me about **Data Cleaning, Visualization, and Statistical Analysis**
+- 📫 Reach me at **priyanka.official2512@gmail.com**
+- 📄 Let's connect: [LinkedIn](https://www.linkedin.com/in/priyanka-dhuri-121b40271/) | [GitHub](https://github.com/PriyankaDhuri2501)
 
 
 ---
