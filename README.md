@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Advanced Data Analytics & Predictive Modeling**
 - 💬 Ask me about **Data Cleaning, Visualization, and Statistical Analysis**
 - 📫 Reach me at **priyanka.official2512@gmail.com**
-- 📄 Let's connect: [LinkedIn](https://www.linkedin.com/in/priyanka-dhuri-121b40271/) | [GitHub](https://github.com/PriyankaDhuri2501)
+- 📄 Let's connect: [LinkedIn](https://www.linkedin.com/in/priyanka-dhuri-121b40271/) |                                        [GitHub](https://github.com/PriyankaDhuri2501)
 
 
 ---
